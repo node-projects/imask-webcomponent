@@ -1,3 +1,5 @@
+/* Helpers for easier webcomponent creation */
+
 function toParString(strings: TemplateStringsArray, values: any[]) {
     if (strings.length === 1)
         return strings.raw[0];
