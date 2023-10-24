@@ -5,7 +5,7 @@
 # description
 a simple wrapper for imask lib (https://imask.js.org/) into a webcomponent..
 
-usable in web-component-designer: [https://node-projects.github.io/web-component-designer-demo/index.html](https://node-projects.github.io/web-component-designer-demo/index.html?npm=@node-projects/tab.webcomponent&html=%3Cnode-projects-tab%20style=%22width:326px;height:257px;position:absolute;left:177px;top:79px;%22%3E%20%3Cdiv%3E%20%3Cbutton%20style=%22width:80px;height:30px;position:absolute;left:119px;top:68px;%22%3EButton%3C/button%3E%20%3C/div%3E%20%3Cdiv%3E%20Hello%20%3C/div%3E%20%3C/node-projects-tab%3E)
+usable in web-component-designer: [https://node-projects.github.io/web-component-designer-demo/index.html](https://node-projects.github.io/web-component-designer-demo/index.html?npm=@node-projects/imask-webcomponent&loadAllImports&html=%3Cnode-projects-imask%20mask=%22%7B%23%7D000%5Baaa%5D%2FNIC-`*%5B**%5D%22%20style=%22position:%20absolute;%20top:%2030px;%20left:%2030px;%20width:%20200px;%20height:%2030px;%22%3E%3C/node-projects-imask%3E)
 
 # development
 ## upload new version
